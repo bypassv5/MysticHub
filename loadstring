@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bypassv5/MysticHub/refs/heads/main/Main.lua"))()
